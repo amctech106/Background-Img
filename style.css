@@ -1,6 +1,17 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid{
+    background-color: orange;
+
+}
+
+
 #carouselExampleSlidesOnly{
-    height: 400px;
-    width: 100%;
+    height: auto; 
+    width: 1000px;
     display: block;
   margin-left: auto;
   margin-right: auto;
@@ -10,11 +21,11 @@
 
 
 .cards{
+    margin-top: 20px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-top: 20px;
   
 }
 
