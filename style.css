@@ -9,6 +9,7 @@
 }
 
 
+
 #carouselExampleSlidesOnly{
     height: auto; 
     width: 1000px;
@@ -39,4 +40,14 @@
 
 h1{
     color:orange; 
+}
+
+
+footer{
+    color:white;
+    background-color: orange;
+    text-align: center;
+    font-weight: 800;
+    font-family: Arial;
+    margin-top: 10px;
 }
